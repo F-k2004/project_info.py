@@ -1,2 +1,1 @@
-# project_info.py
-just githab
+python project_info.py
