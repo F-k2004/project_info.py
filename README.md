@@ -1,1 +1,1 @@
-python project_info.py
+python project_info.p
